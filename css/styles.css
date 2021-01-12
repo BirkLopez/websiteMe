@@ -27,6 +27,7 @@ h3{
 
 p{
   line-height: 2;
+  font-size: 16px;
 }
 
 hr{
@@ -71,6 +72,7 @@ span{
 .intro{
   width: 30%;
   margin: auto;
+  font-size: 16px;
 }
 
 a{
@@ -92,6 +94,7 @@ a:hover{
  .message{
    width: 40%;
    margin: 40px auto 60px;
+   font-size: 16px;
  }
 
    .technology2{
